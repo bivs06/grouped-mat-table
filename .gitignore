@@ -1,0 +1,8 @@
+/node_modules/
+/dist/
+/.idea
+/.idea/workspace.xml
+*/.idea/*
+/.vscode
+/coverage
+/test_result
